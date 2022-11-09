@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Costo" type="id">ET_Costo</item>
+    <item name="Detalle" type="id">ET_Detalle</item>
+    <item name="Criterio" type="id">TV_Criterio</item>
+    <item name="Si" type="id">RB_Si</item>
+    <item name="NO" type="id">RB_No</item>
+</resources>
